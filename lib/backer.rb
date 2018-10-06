@@ -1,4 +1,11 @@
- class Backer 
+class Backer
+   
+   
+  def initialize(name)
+    
+  end 
+    
+  
   
   
   
